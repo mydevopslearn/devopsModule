@@ -1,0 +1,15 @@
+//New Test Case For Functional Test For Application
+Class FuctionalTesting
+{
+
+
+  [TestInitialize]
+public void Initialize()
+{
+//Test Initialize
+
+
+}
+
+
+}
